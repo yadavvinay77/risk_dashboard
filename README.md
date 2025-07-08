@@ -13,7 +13,7 @@ This Jupyter notebook fetches historical Forex and commodities data using the Me
 
 Supports **multiple symbols** with an interactive dropdown selector.
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/yadavvinay77/risk_dashboard/blob/main/risk_dashboard.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/yadavvinay77/risk_dashboard/blob/main/multi_symbol_risk_dashboard.ipynb)
 
 
 ---
