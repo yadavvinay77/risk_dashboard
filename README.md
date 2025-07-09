@@ -16,7 +16,7 @@ Supports **multiple symbols** with an interactive dropdown selector.
 
 ### 🖥️ Live Preview
 
-![Risk Dashboard Preview](interactive_dashboard.jpg)
+> ![Risk Dashboard Preview](plot.png)
 
 ---
 
